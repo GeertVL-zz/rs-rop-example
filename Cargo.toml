@@ -1,0 +1,6 @@
+[package]
+name = "RsRopExample"
+version = "0.1.0"
+authors = ["Geert Van Laethem <geert.vanlaethem@egemin.be>"]
+
+[dependencies]
